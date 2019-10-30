@@ -1,0 +1,12 @@
+{
+    "name": "eugenegpil/html",
+    "authors": [
+        {
+            "name": "EugeneGpil",
+            "email": "ev@freshcube.ru"
+        }
+    ],
+    "require": {
+        "eugenegpil/bracketscounter": "dev-master"
+    }
+}

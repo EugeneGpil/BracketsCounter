@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4a0a12bd7b8af550f4522bbc077585ee",
+    "packages": [
+        {
+            "name": "eugenegpil/bracketscounter",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/EugeneGpil/Brackets.git",
+                "reference": "03e2b3a3faadb955e7e5c70db1bdcc1e5dd1ea49"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/EugeneGpil/Brackets/zipball/03e2b3a3faadb955e7e5c70db1bdcc1e5dd1ea49",
+                "reference": "03e2b3a3faadb955e7e5c70db1bdcc1e5dd1ea49",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "EugeneGpil\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "EugeneGpil",
+                    "email": "gpilligrim@gmail.com"
+                }
+            ],
+            "description": "Return 0 if number of '(' equal to number of ')'",
+            "time": "2019-10-30T09:29:46+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "eugenegpil/bracketscounter": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
