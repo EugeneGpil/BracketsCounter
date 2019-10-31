@@ -22,13 +22,9 @@ try {
     return false;
 }
 
-if ($res === 0){
-    echo "Равное количестов скобок\n";
-} else if ($res === false) {
-    echo "Строка начинается с ')', либо заканчивается на '('";
-} else if ($res > 0) {
-    echo "'(' больше на " . $res . "\n";
-} else if ($res < 0) {
-    echo "')' больше на " . $res . "\n";
+if ($res === true) {
+    echo "Строка верна\n";
+} else {
+    echo "Строка неверна\n";
 }
 return true;

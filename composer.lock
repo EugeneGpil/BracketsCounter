@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/EugeneGpil/Brackets.git",
-                "reference": "03e2b3a3faadb955e7e5c70db1bdcc1e5dd1ea49"
+                "reference": "4d0dbd358158d61bcc37bbd62410063faff0eb55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/EugeneGpil/Brackets/zipball/03e2b3a3faadb955e7e5c70db1bdcc1e5dd1ea49",
-                "reference": "03e2b3a3faadb955e7e5c70db1bdcc1e5dd1ea49",
+                "url": "https://api.github.com/repos/EugeneGpil/Brackets/zipball/4d0dbd358158d61bcc37bbd62410063faff0eb55",
+                "reference": "4d0dbd358158d61bcc37bbd62410063faff0eb55",
                 "shasum": ""
             },
             "require": {
@@ -39,8 +39,8 @@
                     "email": "gpilligrim@gmail.com"
                 }
             ],
-            "description": "Return 0 if number of '(' equal to number of ')'",
-            "time": "2019-10-30T09:29:46+00:00"
+            "description": "Handling '(())()' format string",
+            "time": "2019-10-31T06:27:45+00:00"
         }
     ],
     "packages-dev": [],
